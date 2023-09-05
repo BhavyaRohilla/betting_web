@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad0a9bae.css",
+    "main.js": "/static/js/main.f204ee27.js",
+    "static/media/long-photo-ronaldo.png": "/static/media/long-photo-ronaldo.24ae8ab16cd247b47ce7.png",
+    "static/media/face-5.jpeg": "/static/media/face-5.e725aef8c892cb21f262.jpeg",
+    "index.html": "/index.html",
+    "main.ad0a9bae.css.map": "/static/css/main.ad0a9bae.css.map",
+    "main.f204ee27.js.map": "/static/js/main.f204ee27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad0a9bae.css",
+    "static/js/main.f204ee27.js"
+  ]
+}
